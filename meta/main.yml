@@ -2,9 +2,9 @@
 galaxy_info:
   author: buluma
   role_name: microsoft_repository_keys
-  description: Trust microsofts gpg keys.
+  description: Trust microsofts gpg keys
   license: Apache-2.0
-  company: ShadowNet
+  company: none
   min_ansible_version: "2.12"
 
   platforms:
@@ -19,14 +19,12 @@ galaxy_info:
         - all
     - name: Fedora
       versions:
-        - all
+        - "36"
+        - "37"
     - name: opensuse
       versions:
         - all
     - name: Ubuntu
-      versions:
-        - all
-    - name: Kali
       versions:
         - all
 
