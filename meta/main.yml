@@ -19,11 +19,7 @@ galaxy_info:
         - all
     - name: Fedora
       versions:
-        - "36"
         - "37"
-    - name: opensuse
-      versions:
-        - all
     - name: Ubuntu
       versions:
         - all

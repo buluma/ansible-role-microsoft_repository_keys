@@ -68,8 +68,7 @@ This role has been tested on these [container images](https://hub.docker.com/u/b
 |[Alpine](https://hub.docker.com/repository/docker/buluma/alpine/general)|all|
 |[EL](https://hub.docker.com/repository/docker/buluma/enterpriselinux/general)|8|
 |[Debian](https://hub.docker.com/repository/docker/buluma/debian/general)|all|
-|[Fedora](https://hub.docker.com/repository/docker/buluma/fedora/general)|36, 37|
-|[opensuse](https://hub.docker.com/repository/docker/buluma/opensuse/general)|all|
+|[Fedora](https://hub.docker.com/repository/docker/buluma/fedora/general)|37|
 |[Ubuntu](https://hub.docker.com/repository/docker/buluma/ubuntu/general)|all|
 
 The minimum version of Ansible required is 2.12, tests have been done to:
