@@ -2,7 +2,16 @@
 
 ## [Unreleased](https://github.com/buluma/ansible-role-microsoft_repository_keys/tree/HEAD)
 
-[Full Changelog](https://github.com/buluma/ansible-role-microsoft_repository_keys/compare/0.1.0...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-microsoft_repository_keys/compare/0.2.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.8 [\#8](https://github.com/buluma/ansible-role-microsoft_repository_keys/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump actions/checkout from 3 to 4 [\#7](https://github.com/buluma/ansible-role-microsoft_repository_keys/pull/7) ([dependabot[bot]](https://github.com/apps/dependabot))
+
+## [0.2.0](https://github.com/buluma/ansible-role-microsoft_repository_keys/tree/0.2.0) (2024-01-06)
+
+[Full Changelog](https://github.com/buluma/ansible-role-microsoft_repository_keys/compare/0.1.0...0.2.0)
 
 **Closed issues:**
 
