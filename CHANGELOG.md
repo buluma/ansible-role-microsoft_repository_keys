@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump release-drafter/release-drafter from 5 to 6 [\#13](https://github.com/buluma/ansible-role-microsoft_repository_keys/pull/13) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#12](https://github.com/buluma/ansible-role-microsoft_repository_keys/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [0.4.0](https://github.com/buluma/ansible-role-microsoft_repository_keys/tree/0.4.0) (2024-01-20)
