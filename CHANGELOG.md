@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#14](https://github.com/buluma/ansible-role-microsoft_repository_keys/pull/14) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#13](https://github.com/buluma/ansible-role-microsoft_repository_keys/pull/13) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#12](https://github.com/buluma/ansible-role-microsoft_repository_keys/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
 
