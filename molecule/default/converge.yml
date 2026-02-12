@@ -11,4 +11,4 @@
       changed_when: false
 
   roles:
-    - role: ansible-role-microsoft_repository_keys
+    - role: buluma.microsoft_repository_keys
