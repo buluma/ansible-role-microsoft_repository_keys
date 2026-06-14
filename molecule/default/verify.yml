@@ -11,7 +11,7 @@
           ansible.builtin.apt_repository:
             repo:
               "deb [arch=amd64] https://packages.microsoft.com/repos/azure-cli/ {{
-              ansible_distribution_release }} main"
+              ansible_facts.distribution_release }} main"
             filename: "package-microsoft-com-repos-azure-cli"
             state: present
 
@@ -20,4 +20,4 @@
             name: azure-cli
             state: present
       when:
-        - ansible_distribution == "Ubuntu"
+        - ansible_facts.distribution == "Ubuntu"
