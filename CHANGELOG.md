@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-microsoft_repository_keys/tree/HEAD)
+## [26.6.0](https://github.com/buluma/ansible-role-microsoft_repository_keys/tree/26.6.0) (2026-06-14)
 
-[Full Changelog](https://github.com/buluma/ansible-role-microsoft_repository_keys/compare/0.4.0...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-microsoft_repository_keys/compare/0.4.0...26.6.0)
 
 **Merged pull requests:**
 
