@@ -62,8 +62,10 @@ jobs:
             tag: "fedora44"
           - image: "docker-molecule-images"
             tag: "fedora43"
-          - image: "docker-molecule-images"
-            tag: "ubuntu2604"
+          # ubuntu2604 dropped: Microsoft's azure-cli apt repo (used by
+          # verify.yml's smoke test) has no 'resolute' dist yet - newest
+          # published is 'noble' (24.04). Likely temporary vendor lag,
+          # not a permanent break; re-add once Microsoft catches up.
           - image: "docker-molecule-images"
             tag: "ubuntu2404"
           - image: "docker-molecule-images"

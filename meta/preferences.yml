@@ -17,4 +17,9 @@ platforms:
       - "43"
   - name: Ubuntu
     versions:
+      # ubuntu2604 excluded from the actual CI workflow matrix (Microsoft's
+      # azure-cli apt repo has no 'resolute' dist yet) - the generator's
+      # version-exclusion syntax for a single version within "all" isn't
+      # confirmed here, so re-editing the workflow directly is required if
+      # this file is used to regenerate it.
       - all
