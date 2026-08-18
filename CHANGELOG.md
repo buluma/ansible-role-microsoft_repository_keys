@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-microsoft_repository_keys/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-microsoft_repository_keys/compare/26.6.2...HEAD)
+
+**Merged pull requests:**
+
+- Bump ansible/ansible-lint from 26.6.0 to 26.8.0 [\#27](https://github.com/buluma/ansible-role-microsoft_repository_keys/pull/27) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [26.6.2](https://github.com/buluma/ansible-role-microsoft_repository_keys/tree/26.6.2) (2026-07-24)
 
 [Full Changelog](https://github.com/buluma/ansible-role-microsoft_repository_keys/compare/26.6.1...26.6.2)
